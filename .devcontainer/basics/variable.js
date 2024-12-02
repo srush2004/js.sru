@@ -12,3 +12,8 @@ accountcity = "vrundavan"
 console.log(account_Id);
 
 console.table([account_Id,accountEmail,accountPassword,accountcity])
+
+
+/*
+var is not used much bacuse of issue in block scope and functional scope 
+*/
